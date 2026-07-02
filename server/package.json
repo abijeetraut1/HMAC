@@ -1,0 +1,33 @@
+{
+  "name": "hmac---hash-based-message-auth-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsx --watch server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abijeetraut1/HMAC---Hash-Based-Message-Auth-Code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/abijeetraut1/HMAC---Hash-Based-Message-Auth-Code/issues"
+  },
+  "homepage": "https://github.com/abijeetraut1/HMAC---Hash-Based-Message-Auth-Code#readme",
+  "dependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.0",
+    "tsx": "^4.22.4",
+    "typescript": "^6.0.3"
+  }
+}
